@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WaveLoadingView"><attr format="dimension" name="wlv_borderWidth"/><attr format="color" name="wlv_borderColor"/><attr format="integer" name="wlv_progressValue"/><attr format="enum" name="wlv_shapeType">
+            <enum name="triangle" value="0"/>
+            <enum name="circle" value="1"/>
+            <enum name="square" value="2"/>
+            <enum name="rectangle" value="3"/>
+        </attr><attr format="enum" name="wlv_triangle_direction">
+            <enum name="north" value="0"/>
+            <enum name="south" value="1"/>
+            <enum name="east" value="2"/>
+            <enum name="west" value="3"/>
+        </attr><attr format="boolean" name="wlv_round_rectangle"/><attr format="integer" name="wlv_round_rectangle_x_and_y"/><attr format="color" name="wlv_waveColor"/><attr format="color" name="wlv_wave_background_Color"/><attr format="float" name="wlv_waveAmplitude"/><attr format="string" name="wlv_titleTop"/><attr format="string" name="wlv_titleCenter"/><attr format="string" name="wlv_titleBottom"/><attr format="dimension" name="wlv_titleTopSize"/><attr format="dimension" name="wlv_titleCenterSize"/><attr format="dimension" name="wlv_titleBottomSize"/><attr format="color" name="wlv_titleTopColor"/><attr format="color" name="wlv_titleCenterColor"/><attr format="color" name="wlv_titleBottomColor"/><attr format="color" name="wlv_titleTopStrokeColor"/><attr format="dimension" name="wlv_titleTopStrokeWidth"/><attr format="color" name="wlv_titleBottomStrokeColor"/><attr format="dimension" name="wlv_titleBottomStrokeWidth"/><attr format="color" name="wlv_titleCenterStrokeColor"/><attr format="dimension" name="wlv_titleCenterStrokeWidth"/></declare-styleable>
+    <string name="app_name">Library</string>
+</resources>

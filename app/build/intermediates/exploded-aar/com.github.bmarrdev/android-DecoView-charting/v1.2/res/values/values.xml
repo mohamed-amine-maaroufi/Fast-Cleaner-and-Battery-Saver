@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="label_back_dark">#BB000000</color>
+    <color name="label_back_light">#CCFFFFFF</color>
+    <color name="label_text_dark">#FF000000</color>
+    <color name="label_text_light">#FFFFFFFF</color>
+    <declare-styleable name="DecoView"><attr format="dimension" name="dv_lineWidth"/><attr format="integer" name="dv_rotateAngle"/><attr format="integer" name="dv_totalAngle"/><attr format="enum" name="dv_arc_gravity_horizontal"><enum name="Left" value="0"/><enum name="Center" value="1"/><enum name="Right" value="2"/><enum name="Fill" value="3"/></attr><attr format="enum" name="dv_arc_gravity_vertical"><enum name="Top" value="0"/><enum name="Center" value="1"/><enum name="Bottom" value="2"/><enum name="Fill" value="3"/></attr></declare-styleable>
+    <string name="app_name">DecoViewLib</string>
+</resources>

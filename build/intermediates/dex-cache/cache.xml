@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-compat-26.0.0_9d5e3886a05f7c3aad57ede5a36f4342d1802781.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-26.0.0_ee443f7af94c6bca7c1e08ac7ae73ef1405fa96a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.skyfishjy.ripplebackground\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.skyfishjy.ripplebackground-library-1.0.1_e364cabca3495e669a60461914e03f050437a060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amine\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\library-2.4.0_212ed48096a6a51b5700c91d222687f1c9343c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\jp.wasabeef-recyclerview-animators-2.2.5_8b95886168ff84612a2719c2abb52e408a1796ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-multidex-1.0.1_6f40cc0d0d7933c5c1ff31a86f2852970d441c89.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.github.ybq-Android-SpinKit-1.1.0_1a3f8aad212755272997b4316abbcb8c5e6c17e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\design\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d30ac0c26495d7264529e333cec806eec64dd6f3">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-design-26.0.0_9a4e65226773ab5118ce432fdc936688b57fd025.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-media-compat-26.0.0_26b48e62a07916bc47089af5fca7de69e15f70c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\jp.wasabeef\recyclerview-animators\2.2.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="215abfa2b78865741d99f7b9c0afb79894986505">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\jp.wasabeef-recyclerview-animators-2.2.5_8b95886168ff84612a2719c2abb52e408a1796ba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.github.bmarrdev\android-DecoView-charting\v1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d3db3fc2b65bcb63276a455085d4f4884cdadb44">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.github.bmarrdev-android-DecoView-charting-v1.2_21395f3a7a740dbe172b073f042a791b9f329626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.skyfishjy.ripplebackground\library\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a7cf2a41aedccc427107ebb37762a5e2f5be590">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.skyfishjy.ripplebackground-library-1.0.1_e364cabca3495e669a60461914e03f050437a060.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.github.bmarrdev\android-DecoView-charting\v1.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d3db3fc2b65bcb63276a455085d4f4884cdadb44">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.github.bmarrdev-android-DecoView-charting-v1.2_21395f3a7a740dbe172b073f042a791b9f329626.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.wang.avi-library-2.1.3_f88b66f592af50b9d6cfa961faa694799d64a252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-8.4.0_1ba74a6e0bd862cb5da6a596701a90cbfd39f4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.zys\brokenview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="97a447e8dbdfb375916607aaba92b07c26eae4e1">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.zys-brokenview-1.0.3_3c7af79f5d33dc33a9a0541a33510ff2e070c614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="df733e6865d662899ec247e8c3dbff3e0961b8a7">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-recyclerview-v7-26.0.0_fdf22f20307a68493d55d45864fcb3307e4401e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.wang.avi\library\2.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e699699fae0092703de1d02b217f43803d0f7e0a">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.wang.avi-library-2.1.3_f88b66f592af50b9d6cfa961faa694799d64a252.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.github.ybq\Android-SpinKit\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="21c0f1b0de29bfe601028757c5cb125c343f5164">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.github.ybq-Android-SpinKit-1.1.0_1a3f8aad212755272997b4316abbcb8c5e6c17e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-fragment-26.0.0_891b91a3f0ea3849385d526f563bf94fdfdd131d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.zys\brokenview\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="97a447e8dbdfb375916607aaba92b07c26eae4e1">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.zys-brokenview-1.0.3_3c7af79f5d33dc33a9a0541a33510ff2e070c614.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-vector-drawable-26.0.0_a79bd5f0d0c508264d76c0fa75e1138b36d642bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-ads-8.4.0_1ba74a6e0bd862cb5da6a596701a90cbfd39f4c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-26.0.0_d115f03bea06d86bb6aa4e8762306b74041883c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.4_849e35521cdae105689049992320cb2c0465b12a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.3.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\me.itangqi.waveloadingview-library-0.3.5_8812101b50fd16299c486203efba17ae165b6f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-core-utils-26.0.0_6c14f359208974efd3978a15b5c99d45ea2c019f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.4\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="11262f887015dc774ff36eb66698308df0a376d1">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.intuit.sdp-sdp-android-1.0.4_849e35521cdae105689049992320cb2c0465b12a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\transition\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd2e7a567260ca4e40c09ba330f4f2d318660554">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-transition-26.0.0_272d71708bded68aeb00584d1de030ac7bb57ae4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-basement-8.4.0_a6209c61e7c449f41a1259d60053df4ef7ab6e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-animated-vector-drawable-26.0.0_7f1feaf59e99c7331536ffd15eb6200f428e023c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\com.android.support-support-core-ui-26.0.0_cc24dabbf03ffe0504d5fba22960e5546350262f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\tyrantgit\explosionfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\tyrantgit-explosionfield-1.0.1_c20f6f81f62936d4ce2955e9a87f387d90c88dab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amine\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\support-annotations-26.0.0_c430aadeed7c24e1008f2ac95477b31eec45852e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\amine\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\library-2.4.0_212ed48096a6a51b5700c91d222687f1c9343c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-8.4.0_a6209c61e7c449f41a1259d60053df4ef7ab6e79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\me.itangqi.waveloadingview\library\0.3.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="7640cb27a27ed97bf5f9f808e9cf57cf8df56a63">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\me.itangqi.waveloadingview-library-0.3.5_8812101b50fd16299c486203efba17ae165b6f87.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\exploded-aar\tyrantgit\explosionfield\1.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f82998f0794dfe2b65edd561ac0b34b536e7ff9a">
+        <dex dex="E:\AndroidStudioProjects\Fast Cleaner and Battery Saver\app\build\intermediates\pre-dexed\release\tyrantgit-explosionfield-1.0.1_c20f6f81f62936d4ce2955e9a87f387d90c88dab.jar" />
+    </item>
+
+</items>

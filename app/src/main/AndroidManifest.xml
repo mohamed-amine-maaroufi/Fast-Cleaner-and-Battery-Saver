@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.andromob.masterclean">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.KILL_BACKGROUND_PROCESSES" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" tools:node="remove" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS"
+        tools:ignore="ProtectedPermissions" />
+    <uses-permission android:name="android.permission.CAMERA" tools:node="remove"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:screenOrientation="portrait"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="fast.cleaner.battery.saver.Splachscreen"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="fast.cleaner.battery.saver.MainActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity
+            android:name="fast.cleaner.battery.saver.PowerSaving_popup"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Ultra_PopUp"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.BatterySaver_Black"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Noraml_Mode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.PowerSaving_Complition"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Applying_Ultra"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Sacnning_Junk"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Cpu_Scanner"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="fast.cleaner.battery.saver.Pick_Apps"
+            android:screenOrientation="portrait"
+            android:theme="@style/Theme.Transparent" />
+
+        <receiver android:name="fast.cleaner.battery.saver.Alaram_Booster" />
+        <receiver android:name="fast.cleaner.battery.saver.Alaram_Junk" />
+        <receiver android:name="fast.cleaner.battery.saver.AppListener">
+            <intent-filter android:priority="100">
+                <action android:name="android.intent.action.PACKAGE_INSTALL" />
+                <action android:name="android.intent.action.PACKAGE_ADDED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        <receiver android:name="fast.cleaner.battery.saver.PowerConnected">
+            <intent-filter>
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+            </intent-filter>
+        </receiver>
+
+        <!-- <activity android:name="" -->
+
+
+    </application>
+
+</manifest> <!-- android:theme="@android:style/Theme.NoTitleBar.Fullscreen" -->

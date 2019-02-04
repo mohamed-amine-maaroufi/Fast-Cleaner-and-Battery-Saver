@@ -1,0 +1,1358 @@
+[
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_ultra.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\disable_ultra.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extreme_mode.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\extreme_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apply.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\apply.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\optimize.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res2.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\res2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_bar.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\running_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phonebooster.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\phonebooster.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaned.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cleaned.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_animation.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\check_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\gp.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_blue.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\junk_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_complete.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\task_complete.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clean.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\clean.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooler.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cooler.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\gp.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gp.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\gp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_cooler.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\blue_cooler.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_line.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\green_line.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_complete.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\task_complete.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_cooler.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\red_cooler.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\green_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_grey.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circle_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_mode.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ultra_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_color_selector.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\tab_color_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\sys.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divvide.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\line_divvide.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_circle.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\black_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimize.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_line.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\green_line.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_apps.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\running_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\res.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache2.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cache2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp2.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\temp2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\internet.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\internet.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_up.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\pop_up.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upper.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\upper.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooled.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cooled.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_blue.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\junk_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calc.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\calc.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_toast.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\round_toast.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_blue.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\junk_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_line.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_line.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_red.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cool_button_red.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mark.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\check_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_powersaving.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\ultra_powersaving.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys2.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\sys2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaned.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cleaned.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys2.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\sys2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\power_saving.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\power_saving.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_color_selector.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\tab_color_selector.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\res.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cpu.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cpu.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_lines.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circular_lines.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\power_saving.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\power_saving.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_toast.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\round_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\internet.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\internet.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize_pressed.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimize_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\sys.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_mode.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\normal_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phonebooster.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\phonebooster.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_ultra.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\disable_ultra.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mark.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\check_mark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize_pressed.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\optimize_pressed.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_red.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\junk_red.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\more.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\more.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\disable_ultra.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\disable_ultra.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_animation.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\check_animation.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\circle_white.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_circle.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\black_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaner.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\message.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\message.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartbeat.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\heartbeat.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\sys.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_cooler.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_cooler.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_cpu_sca.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\back_cpu_sca.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaner.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cleaner.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circle_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_cpu_sca.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\back_cpu_sca.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectedbooster.jpg",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\selectedbooster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartbeat.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\heartbeat.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\power_saving.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\power_saving.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_white.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circle_white.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_cpu_sca.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\back_cpu_sca.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_mode.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\normal_mode.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooler.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cooler.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_grey.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circle_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_circle_battery.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\blue_circle_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\temp.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooled.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cooled.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clean.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\clean.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apply.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\apply.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res2.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\res2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ram_usage.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ram_usage.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_red.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cool_button_red.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize_pressed.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimize_pressed.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phonebooster.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\phonebooster.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\phone.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectedbooster.jpg",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\selectedbooster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clock.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\clock.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_up.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\pop_up.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache2.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cache2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_bar.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\running_bar.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_mark.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\check_mark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimized.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\apply.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\apply.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_red.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\junk_red.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartbeat.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\heartbeat.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\black_circle.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\black_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp2.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\temp2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\round_toast.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\round_toast.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_apps.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\running_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_saver.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\battery_saver.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized_sel.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimized_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimized.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ram_usage.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\ram_usage.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upper.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\upper.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res2.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\res2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_circle_battery.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_circle_battery.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\task_complete.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\task_complete.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_line.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\blue_line.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\upper.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\upper.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_password_eye.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\drawable\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extreme_mode.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\extreme_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ram_usage.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ram_usage.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_mode.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ultra_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cache.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\temp.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooler.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cooler.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divvide.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\line_divvide.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\line_divvide.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\line_divvide.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_blue.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cool_button_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cpu.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cpu.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selectedbooster.jpg",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\selectedbooster.jpg"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_circle_battery.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_circle_battery.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_apps.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\running_apps.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized_sel.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\optimized_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cpu.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cpu.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_blue.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cool_button_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_red.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cool_button_red.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\junk_red.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\junk_red.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_line.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\green_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\support-compat\\26.0.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaned.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cleaned.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\extreme_mode.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\extreme_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_circle.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\green_circle.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\res.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\res.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pop_up.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\pop_up.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\internet.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\internet.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\optimized.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\temp2.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\temp2.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimize.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimize.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_cooler.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\red_cooler.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\drawable\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\drawable\\navigation_empty_icon.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\add.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\add.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_splach.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\bg_splach.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calc.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\calc.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calc.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\calc.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_powersaving.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ultra_powersaving.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cool_button_blue.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cool_button_blue.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal_mode.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\normal_mode.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_lines.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\circular_lines.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\green_line.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\green_line.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circular_lines.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\circular_lines.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_powersaving.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\ultra_powersaving.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\26.0.0\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cooled.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cooled.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\optimized_sel.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\optimized_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_saver.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\battery_saver.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\circle_grey.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\circle_grey.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\clean.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\clean.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\battery_saver.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\battery_saver.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cleaner.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\cleaner.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\camera.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\camera.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cache2.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\cache2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sys2.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\sys2.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tab_color_selector.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\tab_color_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\settings.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\map.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ultra_mode.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\ultra_mode.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\check_animation.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\check_animation.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\running_bar.png",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\src\\main\\res\\drawable\\running_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\contacts.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blue_cooler.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\blue_cooler.png"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red_cooler.png",
+        "source": "C:\\Users\\intag pc\\AndroidStudioProjects\\Fast Cleaner\\app\\src\\main\\res\\drawable\\red_cooler.png"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tooltip_frame_light.xml",
+        "source": "E:\\AndroidStudioProjects\\Fast Cleaner and Battery Saver\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\26.0.0\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\map.png",
+        "source": "C:\\Users\\intag pc\\Desktop\\Code Canyon\\Fast Cleaner\\app\\src\\main\\res\\drawable\\map.png"
+    }
+]

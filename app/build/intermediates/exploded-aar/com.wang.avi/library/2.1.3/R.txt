@@ -1,0 +1,17 @@
+int attr indicatorColor 0x7f010005
+int attr indicatorName 0x7f010004
+int attr maxHeight 0x7f010003
+int attr maxWidth 0x7f010001
+int attr minHeight 0x7f010002
+int attr minWidth 0x7f010000
+int string app_name 0x7f020000
+int style AVLoadingIndicatorView 0x7f030000
+int style AVLoadingIndicatorView_Large 0x7f030001
+int style AVLoadingIndicatorView_Small 0x7f030002
+int[] styleable AVLoadingIndicatorView { 0x7f010000, 0x7f010001, 0x7f010002, 0x7f010003, 0x7f010004, 0x7f010005 }
+int styleable AVLoadingIndicatorView_indicatorColor 5
+int styleable AVLoadingIndicatorView_indicatorName 4
+int styleable AVLoadingIndicatorView_maxHeight 3
+int styleable AVLoadingIndicatorView_maxWidth 1
+int styleable AVLoadingIndicatorView_minHeight 2
+int styleable AVLoadingIndicatorView_minWidth 0
